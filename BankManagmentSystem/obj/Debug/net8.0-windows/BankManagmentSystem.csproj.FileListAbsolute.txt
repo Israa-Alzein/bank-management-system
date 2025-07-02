@@ -1,0 +1,220 @@
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.exe
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.deps.json
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.runtimeconfig.json
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.dll
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.pdb
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.AssemblyInfo.cs
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.dll
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\refint\BankManagmentSystem.dll
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.pdb
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.genruntimeconfig.cache
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\ref\BankManagmentSystem.dll
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Form1.resources
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Properties.Resources.resources
+C:\Users\alikg\Desktop\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.GenerateResource.cache
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.exe
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.deps.json
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.runtimeconfig.json
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.pdb
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Add_Accounts.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Form1.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Login.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.MainMenu.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Properties.Resources.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.settings.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Transactions.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.GenerateResource.cache
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.AssemblyInfoInputs.cache
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.AssemblyInfo.cs
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\refint\BankManagmentSystem.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.pdb
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.genruntimeconfig.cache
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\ref\BankManagmentSystem.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.AssemblyReference.cache
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.CopyComplete
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Reactive.Windows.Forms.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Win32.Registry.AccessControl.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.DirectoryServices.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Management.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Speech.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Agents.resources
+C:\xampp\htdocs\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.log.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.exe
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Add_Accounts.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Agents.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Form1.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Log.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Login.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.MainMenu.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Properties.Resources.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Settings.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.Transactions.resources
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.GenerateResource.cache
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.AssemblyInfo.cs
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankMana.7CB86313.Up2Date
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\refint\BankManagmentSystem.dll
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.pdb
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.deps.json
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.runtimeconfig.json
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\bin\Debug\net8.0-windows\BankManagmentSystem.pdb
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\BankManagmentSystem.genruntimeconfig.cache
+C:\Users\UserPc\OneDrive\Documents\my projects\database-c#-project\BankManagmentSystem\BankManagmentSystem\obj\Debug\net8.0-windows\ref\BankManagmentSystem.dll
